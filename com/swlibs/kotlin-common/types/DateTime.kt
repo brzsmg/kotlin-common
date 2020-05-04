@@ -84,6 +84,5 @@ class DateTime : Serializable {
         const val patternSql = "yyyy-MM-dd HH:mm:ss";
         const val patternOracle = "YYYY-MM-DD HH24:MI:SS"
         const val patternFileName = "yyyyMMdd_HHmmss"
-        val TIMEZONE_YEKATERINBURG = TimeZone.getTimeZone("Asia/Yekaterinburg")
     }
 }
